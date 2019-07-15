@@ -1,0 +1,48 @@
+#page-header, #page-footer {
+    background: #f7f7f7;
+}
+
+#page-header {
+    border-bottom: 1px solid #dfdfdf;
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+
+#page-header h1 {
+    font-size: 35px;
+}
+
+#page-header h2 {
+    font-size: 20px;
+}
+
+#page-footer {
+    border-top: 1px solid #dfdfdf;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+
+#content {
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+
+#introduction {
+    border-bottom: 1px solid #DCDCDC;
+}
+
+#ventures {
+    border-bottom: 1px solid #DCDCDC;
+    margin-bottom: 8px;
+}
+
+/* Media Query */
+@media (min-width: 520px) {
+    #page-header h1 {
+        font-size: 36px;
+    }
+
+    #page-header h2 {
+        font-size: 24px;
+    }
+}
