@@ -29,11 +29,12 @@
 
 #introduction {
     border-bottom: 1px solid #DCDCDC;
+    margin-bottom: 20px;
 }
 
 #ventures {
     border-bottom: 1px solid #DCDCDC;
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 }
 
 /* Media Query */
